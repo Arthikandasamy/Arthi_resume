@@ -12,7 +12,7 @@ git commit -m "Enter the date of upload in repo , if any particlar reaason like 
 
 
 git push -u origin main
-
+>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<
 
 ==================================================================
 Create new repo use  http://192.168.168.236:3000/TA_IN/<Repo_Name>
